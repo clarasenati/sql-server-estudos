@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Vendas
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Projeto desenvolvido utilizando SQL Server com foco em criação e gerenciamento de banco de dados para controle de clientes, produtos e vendas.
 
@@ -8,7 +8,7 @@ O projeto foi criado com objetivo de praticar modelagem de dados, relacionamento
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * SQL
 * SQL Server
@@ -16,7 +16,7 @@ O projeto foi criado com objetivo de praticar modelagem de dados, relacionamento
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 * Cadastro de clientes
 * Cadastro de produtos
@@ -28,12 +28,12 @@ O projeto foi criado com objetivo de praticar modelagem de dados, relacionamento
 
 ---
 
-## 📚 Objetivo
+##  Objetivo
 
 Desenvolver conhecimentos práticos em banco de dados, manipulação de informações e análise de dados utilizando SQL.
 
 ---
 
-## 👩‍💻 Desenvolvido por
+##  Desenvolvido por
 
 Clara Sena de Jesus
