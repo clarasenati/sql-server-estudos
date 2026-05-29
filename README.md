@@ -1,11 +1,39 @@
-# sql-server-estudos
+# Sistema de Gerenciamento de Vendas
 
-Projeto voltado para prática de consultas SQL, organização de banco de dados e manipulação de informações utilizando SQL Server.
+## 📌 Sobre o projeto
 
-## Tecnologias utilizadas
-- SQL Server
-- Banco de Dados
-- Consultas SQL
+Projeto desenvolvido utilizando SQL Server com foco em criação e gerenciamento de banco de dados para controle de clientes, produtos e vendas.
 
-## Objetivo
-Desenvolver conhecimentos em análise e organização de dados através da prática de comandos SQL.
+O projeto foi criado com objetivo de praticar modelagem de dados, relacionamentos entre tabelas e consultas SQL para análise de informações.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+* SQL
+* SQL Server
+* Banco de Dados
+
+---
+
+## 🎯 Funcionalidades
+
+* Cadastro de clientes
+* Cadastro de produtos
+* Registro de vendas
+* Consultas SQL
+* INNER JOIN
+* GROUP BY
+* SUM
+
+---
+
+## 📚 Objetivo
+
+Desenvolver conhecimentos práticos em banco de dados, manipulação de informações e análise de dados utilizando SQL.
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+Clara Sena de Jesus
